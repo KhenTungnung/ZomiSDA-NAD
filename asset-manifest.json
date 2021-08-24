@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ZomiSDANADwebsite/static/css/main.4baf527d.chunk.css",
+    "main.js": "/ZomiSDANADwebsite/static/js/main.c80dc08b.chunk.js",
+    "main.js.map": "/ZomiSDANADwebsite/static/js/main.c80dc08b.chunk.js.map",
+    "runtime-main.js": "/ZomiSDANADwebsite/static/js/runtime-main.3f0063ec.js",
+    "runtime-main.js.map": "/ZomiSDANADwebsite/static/js/runtime-main.3f0063ec.js.map",
+    "static/js/2.1e43e7a7.chunk.js": "/ZomiSDANADwebsite/static/js/2.1e43e7a7.chunk.js",
+    "static/js/2.1e43e7a7.chunk.js.map": "/ZomiSDANADwebsite/static/js/2.1e43e7a7.chunk.js.map",
+    "static/js/3.04753788.chunk.js": "/ZomiSDANADwebsite/static/js/3.04753788.chunk.js",
+    "static/js/3.04753788.chunk.js.map": "/ZomiSDANADwebsite/static/js/3.04753788.chunk.js.map",
+    "index.html": "/ZomiSDANADwebsite/index.html",
+    "static/css/main.4baf527d.chunk.css.map": "/ZomiSDANADwebsite/static/css/main.4baf527d.chunk.css.map",
+    "static/js/2.1e43e7a7.chunk.js.LICENSE.txt": "/ZomiSDANADwebsite/static/js/2.1e43e7a7.chunk.js.LICENSE.txt",
+    "static/media/ImageOne.87e56bd0.jpeg": "/ZomiSDANADwebsite/static/media/ImageOne.87e56bd0.jpeg",
+    "static/media/ImageThree.3c7cdc01.jpeg": "/ZomiSDANADwebsite/static/media/ImageThree.3c7cdc01.jpeg",
+    "static/media/ImageTwo.71b025ca.jpeg": "/ZomiSDANADwebsite/static/media/ImageTwo.71b025ca.jpeg",
+    "static/media/PawlpiOne.91f76519.jpeg": "/ZomiSDANADwebsite/static/media/PawlpiOne.91f76519.jpeg",
+    "static/media/PawlpiThree.c0329443.JPG": "/ZomiSDANADwebsite/static/media/PawlpiThree.c0329443.JPG",
+    "static/media/PawlpiTwo.32e756af.jpeg": "/ZomiSDANADwebsite/static/media/PawlpiTwo.32e756af.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0063ec.js",
+    "static/js/2.1e43e7a7.chunk.js",
+    "static/css/main.4baf527d.chunk.css",
+    "static/js/main.c80dc08b.chunk.js"
+  ]
+}
