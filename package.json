@@ -2,12 +2,11 @@
   "name": "untitled",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khentungnung.github.io/ZomiSDANADwebsite/",
+  "homepage": "https://khentungnung.github.io/ZomiSDA-NAD/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "gh-pages": "^3.2.3",
     "html-react-parser": "^1.2.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -19,11 +18,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
