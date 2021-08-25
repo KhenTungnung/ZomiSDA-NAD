@@ -6,6 +6,7 @@ import {Nav, NavLink, NavMenu, SubmenuNav, NavMenuOverallBar, SubMenuLinks} from
 import {Navbar} from './navbar'
 import styled from "styled-components";
 import PawlpiUpnaGuipi from "./PawlpiUpnaGuipi";
+import Footer from "./Footer";
 
 const About = ({toggle},{PawlpiUpnaGuipiData}) => {
     const [dropdown, setDropdown] = useState(false);
@@ -37,7 +38,6 @@ const About = ({toggle},{PawlpiUpnaGuipiData}) => {
                 </SubmenuNav>
             </NavMenuOverallBar>
         </>
-
     )
 }
 export default About

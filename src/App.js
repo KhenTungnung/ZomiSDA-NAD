@@ -13,6 +13,7 @@ import Resources from "./components/Pages/Resources";
 import Contact from "./components/Pages/Contact";
 import {PawlpiUpnaGuipiData} from "./data/PawlpiUpnaGuipiData";
 import PawlpiUpnaGuipi from "./components/Pages/PawlpiUpnaGuipi";
+import footer from "./components/Pages/Footer";
 
 
 function App() {
@@ -38,6 +39,7 @@ function App() {
               <Route path='/about/pawlpiupna' exact component={() => <PawlpiUpnaGuipi {...PawlpiUpnaGuipiData} toggle={toggle} />}/>
 
           </Switch>
+          <footer />
       </Router>
   );
 }
