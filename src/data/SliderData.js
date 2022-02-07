@@ -1,58 +1,58 @@
-import ImageOne from '../images/ImageOne.jpeg'
-import ImageTwo from '../images/ImageTwo.jpeg'
-import ImageThree from '../images/ImageThree.jpeg'
-import PawlpiOne from '../images/PawlpiOne.jpeg'
-import PawlpiTwo from '../images/PawlpiTwo.jpeg'
-import PawlpiThree from '../images/PawlpiThree.JPG'
+import Image1 from '../images/Image1.jpeg'
+import Image2 from '../images/Image2.jpeg'
+import Image3 from '../images/Image3.jpeg'
+import Image4 from '../images/Image4.jpeg'
+import Image5 from '../images/Image5.jpeg'
+import Image6 from '../images/Image6.jpeg'
 
 
 export const SliderDataOne = [
     {
-        title: 'Luxury Villa in Bali, Indonesia',
-        price: '$4,280,000',
+        title: 'Maan masa',
+        price: 'Mual lim',
         path: '/homes',
-        label: 'View Home',
-        image: ImageOne,
+        label: 'Mek theih',
+        image: Image1,
         alt: 'House'
     },
     {
-        title: 'House in San Jose, Costa Rica',
-        price: '$2,860,000',
+        title: 'Building sunga singkung',
+        price: 'Singkung',
         path: '/homes',
-        label: 'View Home',
-        image: ImageTwo,
+        label: 'Mek theih',
+        image: Image2,
         alt: 'House'
     },
     {
-        title: 'House in Calabasas, California',
-        price: '$7, 777, 900',
+        title: 'Ni tum na',
+        price: 'Ni tum',
         path: '/homes',
-        label: 'View Home',
-        image: ImageThree,
+        label: 'Mek theih',
+        image: Image3,
         alt: 'House'
     },
     {
-        title: 'Indiana leh Michigan pan a pawlpi mi pawlkhat',
-        price: '$1,888, 222',
+        title: 'Tui tunga singkung',
+        price: 'Tuili',
         path: '/homes',
-        label: 'Maan en o',
-        image: PawlpiOne,
+        label: 'Mek theih',
+        image: Image4,
         alt: 'House'
     },
     {
-        title: 'Indiana pawlpi maan',
-        price: '$1,888, 222',
+        title: 'Zulei?',
+        price: 'Squirrel',
         path: '/homes',
-        label: 'Maan en o',
-        image: PawlpiTwo,
+        label: 'Mek theih',
+        image: Image5,
         alt: 'House'
     },
     {
-        title: 'Inn ah maan kizaih',
-        price: '$3,990, 120',
+        title: 'Gamlak ah sakhi',
+        price: 'Sakhi',
         path: '/homes',
-        label: 'Maan en o',
-        image: PawlpiThree,
+        label: 'Mek theih',
+        image: Image6,
         alt: 'House'
     }
 ];
